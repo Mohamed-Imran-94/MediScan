@@ -1,0 +1,8 @@
+{
+  "title": "MediScan - Document Extractor",
+  "select_file": "Select a PDF File",
+  "file_type": "Select File Type",
+  "extract": "Extract Text",
+  "language": "Choose Language",
+  "result": "Extracted Result"
+}

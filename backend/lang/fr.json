@@ -1,0 +1,8 @@
+{
+  "title": "MediScan - Analyseur de Documents",
+  "select_file": "Sélectionnez le fichier PDF",
+  "file_type": "Sélectionnez le type de fichier",
+  "extract": "Extraire le texte",
+  "language": "Choisissez la langue",
+  "result": "Résultats de l'analyse"
+}
